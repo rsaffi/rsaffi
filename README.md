@@ -3,3 +3,6 @@
 
 ## https://blog.rsaffi.com
 [![blog-build-badge](https://git.rsaffi.com/rsaffi.com/blog/actions/workflows/hugo.yaml/badge.svg)](https://git.rsaffi.com/rsaffi.com/blog/actions)
+
+Test:
+![blog-build-badge](https://git.rsaffi.com/rsaffi.com/blog/actions/workflows/hugo.yaml/badge.svg)
