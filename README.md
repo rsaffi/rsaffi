@@ -1,3 +1,7 @@
+I've moved my GitHub repositories to my self-hosted Gitea.
+
+Static websites:
+
 | Site  | Build status |
 |:-------------|:-------------|
 | https://www.rsaffi.com      | [![https://www.rsaffi.com](https://git.rsaffi.com/rsaffi.com/site/actions/workflows/hugo.yaml/badge.svg?branch=main)](https://git.rsaffi.com/rsaffi.com/site/actions)     |
