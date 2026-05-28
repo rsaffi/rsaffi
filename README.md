@@ -1,6 +1,9 @@
-I've moved my GitHub repositories to my self-hosted Gitea.
+> [!NOTE]
+> I've moved my GitHub repositories to my self-hosted Gitea.
 
-Static websites:
+---
+
+## Static websites:
 
 | Site  | Build status |
 |:-------------|:-------------|
