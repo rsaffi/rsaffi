@@ -1,5 +1,5 @@
 > [!NOTE]
-> I've moved my GitHub repositories to my self-hosted Gitea.
+> I've moved my GitHub repositories to a self-hosted Gitea instance.
 
 ---
 
