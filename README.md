@@ -5,9 +5,9 @@
 
 ## Static websites:
 
-| Site  | Build status |
-|:-------------|:-------------|
-| https://blog.rsaffi.com      | [![https://blog.rsaffi.com](https://git.rsaffi.com/rsaffi.com/blog/actions/workflows/hugo.yaml/badge.svg?branch=main)](https://git.rsaffi.com/rsaffi.com/blog/actions)     |
+| Site  | Build status | Uptime |
+|:-------------|:-------------:|:-------------:|
+| https://blog.rsaffi.com      | [![https://blog.rsaffi.com](https://git.rsaffi.com/rsaffi.com/blog/actions/workflows/hugo.yaml/badge.svg?branch=main)](https://git.rsaffi.com/rsaffi.com/blog/actions)     | ![Blog uptime](https://gatus.rsaffi.com/api/v1/endpoints/external-private-services_https:--blog-rsaffi-com/uptimes/30d/badge.svg) |
 
 ---
 
